@@ -1,0 +1,13 @@
+
+https://www.diald.nu.ac.th/admin/admin.php
+https://www.diald.nu.ac.th/admin/FCKeditor/editor/dialog/fck_flash.html
+https://www.diald.nu.ac.th/admin/FCKeditor/editor/dialog/fck_link.html
+https://www.diald.nu.ac.th/admin/FCKeditor/editor/dialog/fck_image.html
+https://www.diald.nu.ac.th/admin/FCKeditor/editor/filemanager/browser/default/frmupload.html
+https://www.diald.nu.ac.th/admin/FCKeditor/editor/filemanager/browser/default/browser.html
+https://www.diald.nu.ac.th/admin/FCKeditor/_whatsnew.html
+https://www.diald.nu.ac.th/admin/FCKeditor/fckconfig.js
+https://www.diald.nu.ac.th/admin/FCKeditor/license.txt
+https://www.diald.nu.ac.th/admin/home.php
+https://www.diald.nu.ac.th/admin/index.php
+https://www.diald.nu.ac.th/admin/login.php
